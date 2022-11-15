@@ -1,6 +1,8 @@
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
-# This version has been modified to work with Visual Studio 2019 and is forked from an older version that uses Net 5.0 as the target framework 
+# St Scholastica CIS 3285 Software Design version
+
+## This version has been modified to work with Visual Studio 2019 and is forked from an older version that uses Net 5.0 as the target framework 
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
